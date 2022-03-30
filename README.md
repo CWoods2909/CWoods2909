@@ -1,5 +1,5 @@
 ### Hi there I'm Charles Woods👋
-
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 ![image](https://user-images.githubusercontent.com/83300311/160930567-0ee9e9bd-3b11-4ba6-9de0-fa8bbc55dcd8.png)
 
