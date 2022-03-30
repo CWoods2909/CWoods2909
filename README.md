@@ -1,4 +1,9 @@
 ### Hi there I'm Charles Woods👋
+
+![image](https://user-images.githubusercontent.com/83300311/160930392-098ed812-8f14-45d0-b3ca-4f7f073688fd.png)
+
+
+
 - 👀 I’m interested in cooking, anything outdoors, video games and of course coding.
 - 🌱 I’m currently finishing up the App Academy boot camp.
 - 👯 I’m looking to collaborate on new and exciting projects that can impact the world around me.
