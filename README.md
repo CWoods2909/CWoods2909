@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there I'm Charles Woods👋
+👀 I’m interested in cooking, anything outdoors, video games and of course coding.
+🌱 I’m currently finishig up the App Academy boot camp.
+👯 I’m looking to collaborate on new and exciting projects that can impact the world around me.
+📫 How to reach me: email- (charles.woods48@yahoo.com) or my LinkedIn (https://www.linkedin.com/in/charles-woods-319a83231?trk=people-guest_people_search-card)
 <!--
 **CWoods2909/CWoods2909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
