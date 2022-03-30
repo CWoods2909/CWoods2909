@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on new and exciting projects that can impact the world around me.
 - 📫 How to reach me: email- (charles.woods48@yahoo.com) or my LinkedIn (https://www.linkedin.com/in/charles-woods-319a83231?trk=people-guest_people_search-card)
 
-![visitors](https://visitor-badge.glitch.me/badge?${CWoods2909}.${CWoods2909.id})
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CWoods2909&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
