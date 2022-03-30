@@ -1,7 +1,7 @@
 ### Hi there I'm Charles Woods👋
 
 
-
+![image](https://user-images.githubusercontent.com/83300311/160930567-0ee9e9bd-3b11-4ba6-9de0-fa8bbc55dcd8.png)
 
 
 - 👀 I’m interested in cooking, anything outdoors, video games and of course coding.
