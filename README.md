@@ -1,6 +1,6 @@
 ### Hi there I'm Charles Woods👋
 
-![image](https://user-images.githubusercontent.com/83300311/160930392-098ed812-8f14-45d0-b3ca-4f7f073688fd.png)
+
 
 
 
