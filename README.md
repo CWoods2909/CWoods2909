@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on new and exciting projects that can impact the world around me.
 - 📫 How to reach me: email- (charles.woods48@yahoo.com) or my LinkedIn (https://www.linkedin.com/in/charles-woods-319a83231?trk=people-guest_people_search-card)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=CWoods2909.visitor-badge&left_color=red&right_color=green) 
+
 <!--
 **CWoods2909/CWoods2909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
