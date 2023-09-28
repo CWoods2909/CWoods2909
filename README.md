@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/83300311/160930567-0ee9e9bd-3b11-4ba6-9de0-fa8bbc55dcd8.png)
 
 - 😄 Pronouns: He/Him
-- 👀 I’m interested in cooking, anything outdoors, video games and of course coding.
+- 👀 I’m interested in cooking, fly fishing, video games and of course coding.
 - 🌱 Graduate from the full stack online App Academy bootcamp.
 - 🌱 I’m currently learning Mongo DB and mongoose
 - 👯 I’m looking to collaborate on new and exciting projects that can impact the world around me.
