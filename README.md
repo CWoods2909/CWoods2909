@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - 👀 I’m interested in cooking, fly fishing, video games and of course coding.
 - 🌱 Graduate from the full stack online App Academy bootcamp.
-- 🌱 I’m currently learning Mongo DB and mongoose
+- 🌱 I’m currently working a free lance web design company.
 - 👯 I’m looking to collaborate on new and exciting projects that can impact the world around me.
 - 📫 How to reach me: email- (charles.woods48@yahoo.com) or my LinkedIn (https://www.linkedin.com/in/charles-woods-319a83231?trk=people-guest_people_search-card)
 
